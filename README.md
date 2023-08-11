@@ -1,2 +1,3 @@
 # S-Mart-Sales-Dashboard
-Sales Dashboard for Profit and it is created  in Excel
+Sales Dashboard to check annual profit and sales
+It is created  in Excel
